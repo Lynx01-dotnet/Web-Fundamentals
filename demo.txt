@@ -3,9 +3,9 @@ Why i want to create my career in Cybersecurity/
 The reason why I am interested in pursuing a career in cybersecurity is that I find the subject really fascinating, 
 and it is something that I enjoy learning about because I am curious about how things work and then how those things can be compromised and secured from being so.
 
-While working with security labs and tools, as well as with real-life incident scenarios, I came to realize that cybersecurity involves not just technical knowledge
-but also a mindset of staying cool and logical and taking informed decisions. I am very keen on learning about incident analysis and defensive security because it
-directly impacts system and data protection.
+While working with security labs and tools, as well as with real-life incident scenarios, I came to realize that cybersecurity involves not just 
+technical knowledge but also a mindset of staying cool and logical and taking informed decisions. I am very keen on learning about incident analysis 
+and defensive security because it directly impacts system and data protection.
 
-Security work connects with me on a deeper level because it is meaningful because it is actual work while being something in which I can continue to learn technically
-while making a difference by protecting something, which is what I am interested in pursuing.
+Security work connects with me on a deeper level because it is meaningful because it is actual work while being something in which I can continue to learn
+technically while making a difference by protecting something, which is what I am interested in pursuing.
