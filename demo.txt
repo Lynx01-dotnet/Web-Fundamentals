@@ -1,5 +1,36 @@
-Why i want to create my career in Cybersecurity/
+1. What cybersecurity professionals actually do: Red Team, Blue Team, Purple Team
 
-The reason why I am interested in pursuing a career in cybersecurity is that I find the subject really fascinating, and it is something that I enjoy learning about because I am curious about how things work and then how those things can be compromised and secured from being so.
-While working with security labs and tools, as well as with real-life incident scenarios, I came to realize that cybersecurity involves not just technical knowledge but also a mindset of staying cool and logical and taking informed decisions. I am very keen on learning about incident analysis and defensive security because it directly impacts system and data protection.
-Security work connects with me on a deeper level because it is meaningful because it is actual work while being something in which I can continue to learn technically while making a difference by protecting something, which is what I am interested in pursuing.
+Red Team: Simulate attacks to test system defenses to find and reveal any vulnerabilities.
+Blue Team: The blue team monitors, detects, and responds to attacks in order to maintain the security of the systems.
+Purple Team: Connects Red and Blue teams. Enhances collaboration and thereby security posture.
+The work for cybersecurity professionals includes monitoring, incident response, risk assessment, and security strategy.
+
+2. White hat hacking versus black hat hacking
+
+Ethical Hacking: Authorized system testing to identify possible vulnerabilities; executed within the law and bounds of responsibility.
+Illegal Hacking: Access to systems or data without authorization, punishable under law.
+Ethical hackers do play a very critical role: following rules, keeping findings documented, and helping improve security.
+
+3. Responsible disclosure
+
+Disclosing Process: The process of reporting the discovered vulnerabilities to the affected organization safely.
+Ensures that vulnerabilities are fixed before being exposed in public.
+Safeguards users and institutions alike, with great ethics.
+
+4. Why isolated labs are necessary
+
+Offers a safe practice area in hacking as well as security testing.
+Preventing damage to live systems and networks.
+Allows learning and experimentation without any risk of legal or operation-related consequences.
+
+5. Basics of Virtualization (Host OS vs Guest OS)
+Host OS: This is the main operating system that runs on the physical machine.
+Guest OS: The OS that is being executed within the VM atop the host OS.
+Virtualization enables several isolated environments on the same computer that can be useful for labs and testing.
+
+6. Overview of Kali Linux Ecosystem
+Debian-based Linux distro for penetration testing & ethical hacking purposes.
+Comes with pre-installed tools like Nmap, Metasploit, Wiresh
+Provides for safe lab practice for security testing and learning techniques.
+Often used in Red Team testing as well as by information security professionals.
+
